@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJg0z1SuTIqO+QAXSrxBpO912jv+9No0sLf1RKsk3nyw0LyeagOeEK5sFoXK9BNoGRsenWZ74IE+TOViI4usHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\CLHChallenege\\BirthdayChallenge\\FileNameParser\\FileNameParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\bin\Debug\net6.0\FileNameParser.deps.json
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\bin\Debug\net6.0\FileNameParser.dll
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\bin\Debug\net6.0\FileNameParser.pdb
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\obj\Debug\net6.0\FileNameParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\obj\Debug\net6.0\FileNameParser.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\obj\Debug\net6.0\FileNameParser.AssemblyInfo.cs
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\obj\Debug\net6.0\FileNameParser.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\obj\Debug\net6.0\FileNameParser.dll
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\obj\Debug\net6.0\refint\FileNameParser.dll
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\obj\Debug\net6.0\FileNameParser.pdb
+C:\Users\user\Desktop\CLHChallenege\BirthdayChallenge\FileNameParser\obj\Debug\net6.0\ref\FileNameParser.dll
